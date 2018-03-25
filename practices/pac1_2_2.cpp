@@ -7,7 +7,7 @@ using namespace std;
 */
 
 template<class T>
-int count(T a[], T n, T value)
+T count(T a[], T n, T value)
 {
 	int Count = 0;
 	for (int i = 0; i <15 ; i++)
